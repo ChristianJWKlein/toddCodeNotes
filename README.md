@@ -1,0 +1,3 @@
+# toddCodeNotes
+//The .js files (& others) are literally descriptive to the functions they perform.  In MOST cases, the first code block executes how Todd did it (or would do it),...
+// and the next block executes how I would (did) do it (or the next person to do it).  Look to more comments within.
